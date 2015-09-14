@@ -16,8 +16,7 @@ Tools
 ### Desktop
 
 * http://www.telerik.com/fiddler Fiddler
-
-
+* http://www.rotatingscrew.com/utfcast-professional.aspx UTFCast | Convert massive amounts of text to UTF-8, UTF-16 and UTF-32
 
 
 
