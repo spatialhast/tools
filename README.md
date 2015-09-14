@@ -1,32 +1,21 @@
-# Tools
+Tools
+=====
 
-## Web Online Services
+### Web Online Services
 
-http://jsbeautifier.org/
+* http://jsbeautifier.org/ JSBeautifier
+  
 
+  
+### Web-mapping
 
+* http://boundingbox.klokantech.com/ BoundingBox
+* http://tools.geofabrik.de/calc/ Tile Calculator
+  
 
+### Desktop
 
-## Web-mapping
-
-BoundingBox
-http://boundingbox.klokantech.com/
-
-Tile Calculator
-http://tools.geofabrik.de/calc/
-
-
-
-
-## Desktop
-
-### Fiddler
-The free web debugging proxy for any browser, system or platform
-http://www.telerik.com/fiddler
-
-
-
-
+* http://www.telerik.com/fiddler Fiddler
 
 
 
