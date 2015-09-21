@@ -50,7 +50,7 @@ Tools
 ### Web-mapping/ Providers
 * https://www.mapbox.com/bites/00001/#11/50.0063/36.2322 OSM GPS Track
 * http://edward17.github.io/LayersCollection/
-
+* http://{s}.tiles.mapbox.com/v4/openstreetmap.map-inh7ifmo/{z}/{x}/{y}.png?access_token=pk.eyJ1Ijoib3BlbnN0cmVldG1hcCIsImEiOiJhNVlHd29ZIn0.ti6wATGDWOmCnCYen-Ip7Q
 
 
 
