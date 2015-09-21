@@ -4,7 +4,7 @@ Tools
 ### Web Online Services
 
 * http://jsbeautifier.org/ JSBeautifier
-  
+* https://validator.w3.org/nu/  
 
   
 ### Web-mapping
