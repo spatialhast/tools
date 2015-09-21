@@ -49,7 +49,7 @@ Tools
 
 ### Web-mapping/ Providers
 * https://www.mapbox.com/bites/00001/#11/50.0063/36.2322 OSM GPS Track
-
+* http://edward17.github.io/LayersCollection/
 
 
 
