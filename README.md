@@ -11,8 +11,10 @@ Tools
 
 * http://boundingbox.klokantech.com/ BoundingBox
 * http://tools.geofabrik.de/calc/ Tile Calculator
-  
+* http://hirc.dev.hotosm.org/ Bing Tile Age
 
+    
+  
 ### CDN
 
 * JQuery
@@ -41,6 +43,19 @@ Tools
 
 * http://www.telerik.com/fiddler Fiddler
 * http://www.rotatingscrew.com/utfcast-professional.aspx UTFCast | Convert massive amounts of text to UTF-8, UTF-16 and UTF-32
+
+
+
+
+### Web-mapping/ Providers
+* https://www.mapbox.com/bites/00001/#11/50.0063/36.2322 OSM GPS Track
+
+
+
+
+
+
+
 
 
 
