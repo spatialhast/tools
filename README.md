@@ -57,6 +57,9 @@ Tools
 
 
 
+### QGIS Plugin repositories
+Name: Boundless plugin repository
+URL: http://qgis.boundlessgeo.com/plugins.xml
 
 
 
