@@ -18,25 +18,23 @@ Tools
 ### CDN
 
 * JQuery 3.1.1
-
+```sh
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+```
 
 * Leaflet 0.7.7
-
+```sh
 <link rel="stylesheet" href="cdn.leafletjs.com/leaflet-0.7.7/leaflet.css" />
 <script src="http://cdn.leafletjs.com/leaflet-0.7.7/leaflet.js"></script>
+```
 
 * Bootstrap 3.3.7
-
-<!-- Latest compiled and minified CSS -->
+```sh
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-<!-- Optional theme -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css">
-<!-- Latest compiled and minified JavaScript -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-  
-  
-  
+```
+    
   
 ### Desktop
 
