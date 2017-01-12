@@ -24,8 +24,8 @@ Tools
 
 * Leaflet 0.7.7
 ```sh
-<link rel="stylesheet" href="cdn.leafletjs.com/leaflet-0.7.7/leaflet.css" />
-<script src="http://cdn.leafletjs.com/leaflet-0.7.7/leaflet.js"></script>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@0.7.7/dist/leaflet.css">
+<script src="https://unpkg.com/leaflet@0.7.7/dist/leaflet.js"></script>
 ```
 
 * Bootstrap 3.3.7
